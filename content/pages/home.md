@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter!!!!
+title: Hello from the remote content repo!
 blocks:
   - headline: Welcome to the Tina Starter
     text: >
@@ -48,6 +48,3 @@ blocks:
     color: tint
     _template: features
 ---
-
-
-
