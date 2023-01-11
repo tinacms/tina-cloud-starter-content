@@ -18,29 +18,29 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/tina-illustration.webp
+      src: /uploads/unsplash-75EFpyXu3Wg.jpg
       alt: Tina
     color: default
     _template: hero
   - items:
       - icon:
+          name: code
           color: red
           style: float
-          name: code
         title: Amazing Feature
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
           Praesent ac faucibus risus, eu lacinia enim.
       - icon:
+          name: like
           color: primary
           style: float
-          name: like
         title: This Is a Feature
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
+          name: palette
           color: green
           style: float
-          name: palette
         title: Configurable Theme
         text: >-
           Edit global theme configuration with Tina. Change your theme's primary
@@ -48,5 +48,6 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
