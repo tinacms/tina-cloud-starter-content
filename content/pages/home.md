@@ -1,5 +1,5 @@
 ---
-title: Hello from the remote content repo!
+title: Hello from the remote content
 blocks:
   - headline: Welcome to the Tina Starter
     text: >
@@ -48,3 +48,4 @@ blocks:
     color: tint
     _template: features
 ---
+
