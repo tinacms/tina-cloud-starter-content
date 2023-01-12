@@ -8,6 +8,9 @@ blocks:
       content/pages/home.md, components from components/blocks, and puts them
       all together in pages/\[filename].tsx, all based on a schema defined in
       .tina/schema.ts.
+
+
+      These changes should be saved to the tina-cloud-starter-content repo.
     actions:
       - label: Get Started
         type: button
@@ -48,3 +51,4 @@ blocks:
     color: tint
     _template: features
 ---
+
